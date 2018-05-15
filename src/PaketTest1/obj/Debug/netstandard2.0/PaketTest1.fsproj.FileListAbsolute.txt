@@ -1,0 +1,11 @@
+C:\projects\temp\pakettest\src\PaketTest1\bin\Debug\netstandard2.0\PaketTest1.deps.json
+C:\projects\temp\pakettest\src\PaketTest1\bin\Debug\netstandard2.0\PaketTest1.dll
+C:\projects\temp\pakettest\src\PaketTest1\bin\Debug\netstandard2.0\PaketTest1.pdb
+C:\projects\temp\pakettest\src\PaketTest1\bin\Debug\netstandard2.0\PaketTest2.dll
+C:\projects\temp\pakettest\src\PaketTest1\bin\Debug\netstandard2.0\PaketTest2.pdb
+C:\projects\temp\pakettest\src\PaketTest1\obj\Debug\netstandard2.0\PaketTest1.fsprojAssemblyReference.cache
+C:\projects\temp\pakettest\src\PaketTest1\obj\Debug\netstandard2.0\PaketTest1.AssemblyInfoInputs.cache
+C:\projects\temp\pakettest\src\PaketTest1\obj\Debug\netstandard2.0\PaketTest1.AssemblyInfo.fs
+C:\projects\temp\pakettest\src\PaketTest1\obj\Debug\netstandard2.0\PaketTest1.fsproj.CopyComplete
+C:\projects\temp\pakettest\src\PaketTest1\obj\Debug\netstandard2.0\PaketTest1.dll
+C:\projects\temp\pakettest\src\PaketTest1\obj\Debug\netstandard2.0\PaketTest1.pdb

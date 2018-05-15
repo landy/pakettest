@@ -1,0 +1,8 @@
+C:\projects\temp\pakettest\src\PaketTest2\bin\Debug\netstandard2.0\PaketTest2.deps.json
+C:\projects\temp\pakettest\src\PaketTest2\bin\Debug\netstandard2.0\PaketTest2.dll
+C:\projects\temp\pakettest\src\PaketTest2\bin\Debug\netstandard2.0\PaketTest2.pdb
+C:\projects\temp\pakettest\src\PaketTest2\obj\Debug\netstandard2.0\PaketTest2.fsprojAssemblyReference.cache
+C:\projects\temp\pakettest\src\PaketTest2\obj\Debug\netstandard2.0\PaketTest2.AssemblyInfoInputs.cache
+C:\projects\temp\pakettest\src\PaketTest2\obj\Debug\netstandard2.0\PaketTest2.AssemblyInfo.fs
+C:\projects\temp\pakettest\src\PaketTest2\obj\Debug\netstandard2.0\PaketTest2.dll
+C:\projects\temp\pakettest\src\PaketTest2\obj\Debug\netstandard2.0\PaketTest2.pdb
